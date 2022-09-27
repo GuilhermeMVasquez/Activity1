@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.concurrent.*;
 
-public class Activity1
+public class activity1
 {
     public static void main(String[]args) 
         throws InterruptedException { 
